@@ -1,0 +1,5 @@
+_MACOSX/
+*.zip
+Optimization*.pdf
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
